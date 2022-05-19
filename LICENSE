@@ -1,27 +1,25 @@
-Copyright 2021 - 2022 OpenLicense, by Someone1611/8859
+BSD 2-Clause License
 
-Software licensed with this MUST BE OPEN SOURCE in ALL PARTS or at least CORE PART even getting commercially.
+Copyright (c) 2022, Someone8859 (Someone, Someone1611, Someone1611_8859)
+All rights reserved.
 
-If you are not the author or direct contributor, you MAY NOT:
-- Redistribute the software with the same name without note that is not 
-- Redistribute the fork of your software commercially without asking the permission of the origial author
-- Provide download of the software without the permission of the author
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
 
-But you may...
-- Use the source code to distribute your own software (MUST BE OPEN-SOURCE in AT LEASE CORE PARTS)
-- Ask the author for permission to distribute that software commericially
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
 
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
 
-
-If you are the author or direct contributor, you MAY NOT:
-- Define your software as Open-source, but use the wrong source code and/or outdated
-- If you are in the government, you may not force people in your country to use your software
-- Release the builds of your software before release the source code of that build
-- Restrict the distribution of software based on your code that doesn't violate the license
-
-But you may...
-- Sue those who redistribute your software without permission (you claim responsibility!)
-
-This license provide WHAT PEOPLE CAN DO WITH YOUR SOFTWARE, JUST THE BASIC, and you claim every responsibility if there is a dispute.
-
-This license is not completed yet and it accept contributors.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
