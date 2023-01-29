@@ -12,10 +12,7 @@ def main():
 	print("\n\nWebhook sender by Someone1611")
 	print("Send any message any discord webhook")
 	print("No colorama, no beauti design for easy to use and compatibility, performance")
-	print("Project's GitHub: https://github.com/Someone8859/discordwebhook-sender")
-	print("If you want to contribute, report error, it's free to email the author and create pull requests.")
-	print("This program is licensed with the AbsOpenLicense, mean it is always open-source even free or commercial.")
-	print("At least the core is open-source. \n\n\n")
+	print("Project's GitHub: https://github.com/hahahahacker2009/discordwebhook-sender")
 
 	url = input("Enter your webhook URL: ")
 	name = input("Enter your webhook name: ")
